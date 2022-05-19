@@ -1,4 +1,4 @@
-Music-app using TailwindCss and Next Js
+# Music-app using TailwindCss and Next Js
 
 ## Screenshot homepage
 ![Screenshot from 2022-05-19 10-49-48](https://user-images.githubusercontent.com/78941367/169231417-dfd597c0-1985-429e-abe1-46866c0186a8.png)
